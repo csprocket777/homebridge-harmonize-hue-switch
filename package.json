@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Harmonize Hue",
+  "name": "homebridge-harmonize-hue-switch",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "A HomeKit compatible switch to turn on/off the Harmonize service to sync your Hue lights with your TV.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/csprocket777/homebridge-harmonize-hue-switch.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/csprocket777/homebridge-harmonize-hue-switch/issues"
   },
   "engines": {
     "node": ">=10.17.0",
